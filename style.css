@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Young Serif", serif;
+}
+
+.parent{
+    width: 80%;
+    margin: 100px auto 100px;
+    text-align: center;
+}
+
+span {
+    display: block;
+    cursor: pointer;
+  }
+
+  .button{
+    height: 50px;
+    width: 120px;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    display: inline-block;
+}
+
+  #nature {
+    background: #c2e59c;
+    font-size: 1.2rem;
+  }
+  
+  #space {
+    background: #7329d9;
+    font-size: 1.2rem;
+  }
+  
+  #city {
+    background: #86a8e7;
+    font-size: 1.2rem;
+  }
+  
+  #cyberpunk {
+    background: #df42ca;
+    font-size: 1.2rem;
+  }
+  
+
